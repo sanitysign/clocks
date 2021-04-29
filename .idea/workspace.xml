@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4072dc70-606a-4c00-978f-94cad05b1fe4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Frontend.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../../Frontend.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Learning/flex-playground/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../Learning/flex-playground/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Learning/flex-playground/css/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/../../Learning/flex-playground/css/style.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Learning/flex-playground/css/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../Learning/flex-playground/css/style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Learning/flex-playground/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Learning/flex-playground/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Webcom-Projects" beforeDir="false" afterPath="$PROJECT_DIR$/../../Webcom-Projects" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1riLgWrFT0wxoPp3C7C0FCOGq1D" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1589" y="724" key="EditFileWatcherDialog" timestamp="1619454118799">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1589" y="724" key="EditFileWatcherDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1619454118799" />
+  </component>
+</project>
